@@ -1,0 +1,91 @@
+.is-san {
+  background-color: #caf0f8;
+}
+.is-sin {
+  color: #90e0ef;
+  font-size: 12px;
+}
+body {
+  background-color: #caf0f8;
+  min-height: 100vh;
+}
+
+.section {
+  padding: 1rem 1.5rem;
+  max-width: 750px;
+  margin: auto;
+}
+
+.title {
+  font-weight: 800;
+  font-size: 5rem;
+  color: #90e0ef;
+}
+
+.subtitle {
+  font-size: 20px;
+  margin-top: -25px;
+  margin-bottom: 27px;
+}
+
+.button.is-san {
+  background-color: #47bbec;
+  border-color: transparent;
+  color: #fff !important;
+}
+
+.button.is-san:hover {
+  background-color: #40a9d6;
+  border-color: transparent;
+  color: #fff !important;
+}
+
+.button.is-san.is-outlined {
+  background-color: transparent;
+  border-color: #90e0ef;
+  color: #00b4d8 !important;
+}
+
+.button.is-san.is-outlined:hover {
+  background-color: #00b4d8;
+  border-color: #00b4d8;
+  color: white !important;
+}
+
+.help {
+  color: gray;
+}
+
+.is-blue {
+  color: #82dff0;
+}
+
+.modal-content {
+  width: 600px;
+  max-width: 80%;
+}
+
+input::-webkit-calendar-picker-indicator {
+  display: none;
+}
+
+.image img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+
+.logo-text {
+  font-family: "Stylish", sans-serif;
+  font-size: larger;
+}
+
+.ig{
+ opacity: 50%;
+ width: 45px;
+}
+
+.ig:hover{
+  opacity: 100%;
+  width: 45px;
+}
